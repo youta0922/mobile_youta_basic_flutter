@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import 'dart:io';
 
 bool isLeapYear(int year) {
@@ -29,3 +30,27 @@ void main() {
     print('有効な西暦を入力してください。');
   }
 }
+=======
+void main({
+// 西暦を入力してうるう年かどうかを判定するプログラム
+
+ is_leap_year(year):
+if (year % 4 == 0){
+  return True
+}
+if (year % 100 == 0 and year % 400 == 0):
+return True
+else:
+return False
+else:
+return True
+else:
+return False
+
+year = 2024
+result = is_leap_year(year)
+result
+
+ },
+)
+>>>>>>> 35a5d072039c6f4e2139c996312bcab741647396
