@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-import 'dart:io';
+
+
 
 bool isLeapYear(int year) {
   // うるう年の判定ロジック
@@ -53,4 +53,4 @@ result
 
  },
 )
->>>>>>> 35a5d072039c6f4e2139c996312bcab741647396
+
